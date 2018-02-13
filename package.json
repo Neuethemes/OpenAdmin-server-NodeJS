@@ -1,0 +1,29 @@
+{
+  "name": "angulator-server",
+  "version": "1.0.0",
+  "description": "Server for Angulator",
+  "license": "GPL",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://slaving@bitbucket.org/neuethemes/angulator.git"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-jwt": "^5.3.0",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.0",
+    "mongoose-paginate": "^5.0.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
