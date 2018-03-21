@@ -24,6 +24,7 @@ http://openadmin.neuethemes.net/client/html/
 
 ### OpenAdmin Client versions
 
+#### [Free HTML5 Bootstrap4 OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Html)
 #### [Free Angular OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-Angular)
 #### [Free React OpenAdmin Dashboard](https://github.com/Neuethemes/OpenAdmin-client-React)
 #### [Free VueJS OpenAdmin Dashboard (Coming Soon)](https://github.com/Neuethemes/OpenAdmin-client-VueJS)
